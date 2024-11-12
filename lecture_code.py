@@ -1,1 +1,0 @@
-https://github.com/shaq31415926/tech-basics/tree/main/tech_basics_two
